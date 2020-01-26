@@ -18,7 +18,7 @@
 # method, not just what it does, but what it returns. Remember, return values are
 # important. Ask yourself? what is the return value of `#puts`?_
 
-def parrot(sound = "Squawk!")
+def parrot(phrase= "Squawk!")
   puts "Squawk!"
     "Squawk!"
 end
