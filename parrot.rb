@@ -19,7 +19,7 @@
 # important. Ask yourself? what is the return value of `#puts`?_
 
 def parrot(sound = "Squawk!", bird_speak = "Pretty Bird!")
-  puts sound
+  puts "Squawk!"
     return "Squawk!"
       puts "#{bird_speak}"
         return "Pretty Bird!"
