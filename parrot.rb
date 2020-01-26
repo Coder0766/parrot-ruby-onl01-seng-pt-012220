@@ -21,6 +21,5 @@
 def parrot(sound = "Squawk!", bird_speak = "Pretty Bird!")
   puts "Squawk!"
     "Squawk!"
-      puts "Pretty Bird!"
         return "Pretty Bird!"
 end
